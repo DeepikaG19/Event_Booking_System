@@ -1,4 +1,4 @@
-# 🎉 Mandabam - Event Booking System
+#  Mandabam - Event Booking System
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/Frontend-React_Vite-cyan?style=flat&logo=react)
